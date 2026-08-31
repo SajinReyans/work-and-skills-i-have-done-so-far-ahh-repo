@@ -1,0 +1,11 @@
+programming language 
+python 
+web dev
+html 
+js 
+node js 
+react js 
+express js 
+next js 
+tailwind css
+css
