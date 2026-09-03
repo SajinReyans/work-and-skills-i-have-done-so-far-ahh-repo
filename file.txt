@@ -1,3 +1,1 @@
-5. SEMMA
 
-SEMMA stands for Sample, Explore, Modify, Model, and Assess. It is a methodology developed by SAS for data mining. It helps users select data, understand it, prepare it, build models, and evaluate their performance.
