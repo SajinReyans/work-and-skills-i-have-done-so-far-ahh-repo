@@ -1,3 +1,3 @@
-1. Artificial Intelligence
+5. SEMMA
 
-Artificial Intelligence (AI) is a technology that allows computers to perform tasks that normally require human intelligence. AI can understand information, solve problems, and make decisions. Examples include voice assistants, chatbots, and r
+SEMMA stands for Sample, Explore, Modify, Model, and Assess. It is a methodology developed by SAS for data mining. It helps users select data, understand it, prepare it, build models, and evaluate their performance.
