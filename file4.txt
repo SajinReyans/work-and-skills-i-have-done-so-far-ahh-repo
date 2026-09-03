@@ -1,0 +1,3 @@
+4. KDD
+
+KDD stands for Knowledge Discovery in Databases. It is a process used to discover useful knowledge from data. The main steps include selecting data, cleaning it, transforming it, finding patterns, evaluating them, and using the discovered knowledge.
